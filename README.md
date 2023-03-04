@@ -10,7 +10,7 @@ In this tutorial we will just use notepad and save our files as with the .bat ex
 
 - Open up Notepad.exe
 - Type `echo hello world`
-- Save as hell.bat
-- Navigate to hello.bat and type hello.bat into cmd>
+- Save as hello.bat
+- Navigate to the directory you saved hello.bat in and type hello.bat then press enter.
 
 # Comments
