@@ -14,3 +14,5 @@ In this tutorial we will just use notepad and save our files as with the .bat ex
 - Navigate to the directory you saved hello.bat in and type hello.bat then press enter.
 
 # Comments
+
+You can add comments to batch files by starting a line with either `REM` or `::`.
